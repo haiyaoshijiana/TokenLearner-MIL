@@ -11,7 +11,7 @@ TokenLearner-MIL introduces a novel approach to whole slide image (WSI) classifi
 
 ## Framework Architecture
 
-![TokenLearner-MIL Architecture](image/figure1-2.pdf)
+![TokenLearner-MIL Architecture](image/figure1-2.png)
 
 The framework consists of three main components:
 - **Feature Extraction**: Self-supervised contrastive learning for patch-level features
